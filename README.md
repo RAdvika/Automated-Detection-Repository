@@ -8,18 +8,19 @@ information for our research project.
 
 # Some suggested machine learning materials
 
-Practical deep learning for coders - <https://course.fast.ai/>
+Practical deep learning for coders - <https://course.fast.ai/>.
+
 Introduction to Machine Learning -
-<https://developers.google.com/machine-learning/crash-course/ml-intro>
+<https://developers.google.com/machine-learning/crash-course/ml-intro>.
 
 # Bioacoustics specific tutorials (suggested)
 
 Analytical approaches for acoustic data-
 <https://github.com/DenaJGibbon/Analytical-approaches-for-acoustic-data-2023/tree/main>
-Focus on Part 1. under ‘R scripts’
+Focus on Part 1. under ‘R scripts’.
 
 Tutorial to use traditional machine learning for automated detection in
-R: <https://denajgibbon.github.io/gibbonR-tutorial/>
+R: <https://denajgibbon.github.io/gibbonR-tutorial/>.
 
 # Bioacoustics specific tutorials (optional)
 
