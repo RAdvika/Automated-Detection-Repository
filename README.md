@@ -25,3 +25,15 @@ R: <https://denajgibbon.github.io/gibbonR-tutorial/>.
 # Bioacoustics specific tutorials (optional)
 
 <https://github.com/vocalpy/acoustic-communication-and-bioacoustics-bootcamp/tree/main>
+
+# Deep Learning Repository with various methods, examples, and papers
+
+<https://github.com/adam-maj/deep-learning/blob/main/README.md>
+
+# Deep Learning and Machine Learning Tutorials for Audio Files 
+
+<https://www.youtube.com/watch?v=fMqL5vckiU0&list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf>
+<https://www.youtube.com/watch?v=iCwMQJnKk2c&list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0>
+<https://www.youtube.com/watch?v=Z7YM-HAz-IY&list=PLhA3b2k8R3t2Ng1WW_7MiXeh1pfQJQi_P>
+
+
